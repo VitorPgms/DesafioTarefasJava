@@ -1,0 +1,12 @@
+Código: 1
+Nome: Estudar Java
+Situação: Pendente
+
+Código: 2
+Nome: Estudar Kotlin
+Situação: Pendente
+
+Código: 3
+Nome: Desafio Tarefas Java
+Situação: Concluida
+
